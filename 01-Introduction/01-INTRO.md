@@ -36,4 +36,4 @@ Overall, Python is a powerful and versatile programming language that is well-su
 
 #### Next
 
-[How to install and set up a Python environment.](./02-SETUP_README.md)
+[How to install and set up a Python environment.](./02-PYTHON-SETUP.md)
