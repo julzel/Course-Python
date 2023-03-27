@@ -1,6 +1,6 @@
 # Course-Python
 
-### [Introduction to Python:](./01-Introduction/01-INTRO_README.md)
+### [Introduction to Python:](./01-Introduction/01-INTRO.md)
 
 Introduction to the Python programming language and its features.
 
