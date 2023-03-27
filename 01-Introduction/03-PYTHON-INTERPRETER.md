@@ -69,4 +69,4 @@ Once you have opened the Python interpreter, you can start executing Python code
 Hello, John!
 ```
 
-#### [Next: Python Syntax](./04-PYTHON-SYNTAX.md)
+### [Next: Python Syntax](./04-PYTHON-SYNTAX.md)

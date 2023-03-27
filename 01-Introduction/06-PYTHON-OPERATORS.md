@@ -92,4 +92,4 @@ Assignment operators are used to assign values to variables. Here are some commo
 | `%=`     | `x %= 5`  | `x = x % 5`  |
 | `**=`    | `x **= 5` | `x = x ** 5` |
 
-##### [Next: Chapter 02](../02-Variables-and-Data-Types/01-INTRO.MD)
+### [Next: Chapter 02](../02-Variables-and-Data-Types/01-INTRO.MD)

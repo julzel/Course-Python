@@ -4,13 +4,13 @@ In this lesson, we'll dive into the basics of declaring variables in Python and 
 
 ### Declaring Variables
 
-Variables are used to store data in a Python program. To declare a variable, simply choose a name for the variable and use the assignment operator (=) to assign a value to it. For example:
+Variables are used to store data in a Python program. To declare a variable, simply choose a name for the variable and use the assignment operator (`=`) to assign a value to it. For example:
 
 ```python
 x = 5
 ```
 
-In this example, we declare a variable x and assign the value 5 to it. Once a variable is declared, we can use it in our program to reference the value it holds.
+In this example, we declare a variable `x` and assign the value `5` to it. Once a variable is declared, we can use it in our program to reference the value it holds.
 
 ### Data Types
 
@@ -107,4 +107,4 @@ print(z)  # output: False
 print(w)  # output: True
 ```
 
-#### [Next: Strings](02-STRINGS.MD)
+### [Next: Strings](02-STRINGS.MD)
