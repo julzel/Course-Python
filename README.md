@@ -1,10 +1,10 @@
 # Course-Python
 
-### Introduction to Python:
+### [Introduction to Python:](./01-Introduction/01-INTRO_README.md)
 
 Introduction to the Python programming language and its features.
 
-### Variables and Data Types:
+### [Variables and Data Types:]()
 
 Learn about variables and data types such as strings, integers, floats, and booleans.
 
