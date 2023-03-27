@@ -34,6 +34,4 @@ Here are some of the advantages of Python compared to other programming language
 
 Overall, Python is a powerful and versatile programming language that is well-suited for a wide range of applications. Its ease of use, readability, and large community make it a great choice for beginners and experienced developers alike.
 
-#### Next
-
-[How to install and set up a Python environment.](./02-PYTHON-SETUP.md)
+#### [Next: How to install and set up a Python environment](./02-PYTHON-SETUP.md)

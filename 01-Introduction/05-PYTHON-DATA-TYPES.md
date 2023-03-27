@@ -71,4 +71,4 @@ y = False
 
 To declare a boolean variable, simply assign either `True` or `False` to a variable.
 
-##### [Next: 06-PYTHON-OPERATORS.md][next]
+##### [Next: 06-PYTHON-OPERATORS.md](./06-PYTHON-OPERATORS.md)

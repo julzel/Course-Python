@@ -141,3 +141,5 @@ message = 'The quick brown fox jumps over the lazy dog.'
 new_message = re.sub('fox', 'cat', message)
 print(new_message)  # output: 'The quick brown cat jumps over the lazy dog.'
 ```
+
+#### [Next: Strings]()

@@ -106,3 +106,5 @@ w = x or y
 print(z)  # output: False
 print(w)  # output: True
 ```
+
+#### [Next: Strings](02-STRINGS.MD)

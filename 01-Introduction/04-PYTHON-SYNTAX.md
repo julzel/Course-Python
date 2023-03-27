@@ -59,4 +59,4 @@ or    # logical or
 not   # logical not
 ```
 
-##### [Next](./05-PYTHON-DATA-TYPES.md)
+##### [Next: Data Types](./05-PYTHON-DATA-TYPES.md)
